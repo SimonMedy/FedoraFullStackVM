@@ -64,7 +64,7 @@ After importing and starting the virtual machine, you may want to adjust some se
   ```bash
   sudo dnf update
   ```
-- **VirtualBox Guest Additions**: If you're using **VirtualBox**, it's recommended to install the **Guest Additions** to improve the integration between your host and the VM. This will enable features like better mouse integration, shared clipboard, and folder sharing between the host and the virtual machine. You can install them by selecting **Devices > Insert Guest Additions CD Image** from the VirtualBox menu when the VM is running, then follow the on-screen instructions in the terminal.
+- **VirtualBox Guest Additions**: If you're using **VirtualBox**, it's recommended to install the **Guest Additions** to improve the integration between your host and the VM. This will enable features like better mouse integration, shared clipboard, and folder sharing between the host and the virtual machine. You can install them by selecting **Devices > Insert Guest Additions CD Image** from the VirtualBox menu when the VM is running, then follow the on-screen instructions in the terminal. More info [here](https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest).
 - **3D Acceleration**: You can also try to activate 3D acceleration in **VirtualBox > Settings > Display** if it works on your end. This will improve the performance of the virtual machine.
 
 Once you've customized the VM to your liking, you're ready to start working!
