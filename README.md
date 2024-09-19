@@ -22,6 +22,24 @@ This repository provides a pre-configured virtual machine (VM) built using **Vir
 
 _Note: Both **MariaDB** and **phpMyAdmin** are containers that were installed with the docker-compose file located here : **/home/yxtomix/Dev/MariaDB-Container**._
 
+## Table of Contents
+- [FedoraFullStackVM](#fedorafullstackvm)
+- [Installed Software and Tools](#installed-software-and-tools)
+- [Download](#download)
+- [Access to Tools](#access-to-tools)
+- [Default Credentials](#default-credentials)
+- [How to Use](#how-to-use)
+  - [Installation](#installation)
+  - [Setup and Configuration](#setup-and-configuration)
+  - [Start coding](#start-coding)
+  - [Starting Docker Services](#starting-docker-services)
+  - [Access phpMyAdmin](#access-phpmyadmin)
+  - [Managing Containers with Portainer](#managing-containers-with-portainer)
+  - [How to stop the containers](#how-to-stop-the-containers)
+- [Customization](#customization)
+- [Future Improvements](#future-improvements)
+- [License](#license)
+
 ## Download
 
 - [Fedora 40 FullStack Dev Environment VM](https://kdrive.infomaniak.com/app/share/1186372/6cc63ecc-4dae-44d5-91b9-6c523b5b35bd)
