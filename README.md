@@ -4,24 +4,6 @@
 
 This repository provides a pre-configured virtual machine (VM) built using **VirtualBox** and the **Fedora Workstation 40** distribution for full-stack web development. The VM comes with several development tools and services pre-installed and configured for ease of use. Below are the key features and instructions on how to use it.
 
-## Installed Software and Tools
-
-- **Docker**: Container platform for running services.
-- **Docker Compose**: To easily manage multi-container Docker applications.
-- **PHP**: Backend development language.
-- **Node.js & npm**: JavaScript runtime and package manager for frontend development.
-- **Python**: Installed for any use you want.
-- **Symfony**: PHP framework for web applications.
-- **Angular**: Javascript framework for frontend development.
-- **React**: Another popular frontend library and ready to use with npx and npm.
-- **MariaDB**: Relational database server.
-- **phpMyAdmin**: Web interface for managing MariaDB databases.
-- **Portainer**: Web-based interface to manage Docker containers (Similar to Docker Desktop).
-- **Postman**: API testing tool for debugging and developing APIs.
-- **Visual Studio Code**: A Code editor installed with **38 essential extensions** ready for web and full-stack development.
-
-_Note: Both **MariaDB** and **phpMyAdmin** are containers that were installed with the docker-compose file located here : **/home/yxtomix/Dev/MariaDB-Container**._
-
 ## Table of Contents
 - [FedoraFullStackVM](#fedorafullstackvm)
 - [Installed Software and Tools](#installed-software-and-tools)
@@ -39,6 +21,24 @@ _Note: Both **MariaDB** and **phpMyAdmin** are containers that were installed wi
 - [Customization](#customization)
 - [Future Improvements](#future-improvements)
 - [License](#license)
+
+## Installed Software and Tools
+
+- **Docker**: Container platform for running services.
+- **Docker Compose**: To easily manage multi-container Docker applications.
+- **PHP**: Backend development language.
+- **Node.js & npm**: JavaScript runtime and package manager for frontend development.
+- **Python**: Installed for any use you want.
+- **Symfony**: PHP framework for web applications.
+- **Angular**: Javascript framework for frontend development.
+- **React**: Another popular frontend library and ready to use with npx and npm.
+- **MariaDB**: Relational database server.
+- **phpMyAdmin**: Web interface for managing MariaDB databases.
+- **Portainer**: Web-based interface to manage Docker containers (Similar to Docker Desktop).
+- **Postman**: API testing tool for debugging and developing APIs.
+- **Visual Studio Code**: A Code editor installed with **38 essential extensions** ready for web and full-stack development.
+
+_Note: Both **MariaDB** and **phpMyAdmin** are containers that were installed with the docker-compose file located here : **/home/yxtomix/Dev/MariaDB-Container**._
 
 ## Download
 
