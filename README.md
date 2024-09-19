@@ -90,11 +90,11 @@ _Another note: If you encounter permission issues, you may need to prefix the co
 
 ### Access phpMyAdmin
 
-- Open ZenBrowser and you will see [phpMyAdmin](http://localhost:8080) at the top, or go to http://localhost:8080 in any browser to access [phpMyAdmin](http://localhost:8080).
+- Open ZenBrowser and you will see [phpMyAdmin](http://localhost:8080) at the top, or go to http://localhost:8080 in any browser to access phpMyAdmin.
 
 ### Managing Containers with Portainer
 
-- [Portainer](http://localhost:9443) is also accessible via ZenBrowser. Simply open ZenBrowser and you will see [Portainer](http://localhost:9443) at the top or go to http://localhost:9443 in any browser to access it.
+- [Portainer](http://localhost:9443) is also accessible via ZenBrowser. Simply open ZenBrowser and you will see Portainer at the top or go to http://localhost:9443 in any browser to access it.
 
 ### How to stop the containers
 
